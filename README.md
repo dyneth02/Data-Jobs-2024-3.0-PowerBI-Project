@@ -30,7 +30,19 @@ This project was a journey through key Power BI features. Here's a look at what 
 ### Page 1: High-Level Market View
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/dyneth02/Data-Jobs-2024-3.0-PowerBI-Project/blob/main/screenshots/Screenshot%202026-01-10%20000845.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/dyneth02/Data-Jobs-2024-3.0-PowerBI-Project/blob/main/screenshots/Screenshot%202026-01-10%20000929.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/dyneth02/Data-Jobs-2024-3.0-PowerBI-Project/blob/main/screenshots/Screenshot%202026-01-10%20001043.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/dyneth02/Data-Jobs-2024-3.0-PowerBI-Project/blob/main/screenshots/Screenshot%202026-01-10%20001114.png">
 </p>
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
@@ -38,7 +50,11 @@ This is your mission control for the data job market. It showcases key KPIs like
 ### Page 2: Job Title Drill Through
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/dyneth02/Data-Jobs-2024-3.0-PowerBI-Project/blob/main/screenshots/Screenshot%202026-01-10%20001155.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/dyneth02/Data-Jobs-2024-3.0-PowerBI-Project/blob/main/screenshots/Screenshot%202026-01-10%20001056.png">
 </p>
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
