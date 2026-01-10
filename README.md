@@ -1,4 +1,4 @@
-# Data Jobs Dashboard 3.0 w/ Power BI
+# 📊 Data Jobs Dashboard 3.0 w/ Power BI
 
 ## Introduction
 
